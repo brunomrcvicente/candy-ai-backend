@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "mvanhorn/last30days-skill"
       }
+    },
+    "remotion": {
+      "source": {
+        "source": "github",
+        "repo": "remotion-dev/claude-code-plugin"
+      }
     }
   },
   "enabledPlugins": {
-    "last30days@last30days-skill": true
+    "last30days@last30days-skill": true,
+    "remotion@remotion": true
   }
 }
